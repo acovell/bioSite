@@ -1,0 +1,114 @@
+.vertical_images {
+    width: 400px;
+    height: 400px;
+}
+
+.accomplishments {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.square_image {
+    width: 400px;
+    height: 400px;
+}
+
+#portrait_image {
+    width: 400px;
+    height: 400px;
+}
+.centered_h1 {
+    text-align: center;
+}
+#accomplishments_and_goals_section {
+    float: left;
+    width: 60%;
+}
+header h1 {
+    text-align: center;
+}
+#navbar {
+    overflow: hidden;
+    background-color: white;
+    border-bottom: 5px solid black;
+}
+#navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#navbar a:hover {
+    background-color: #C3E8CD;
+}
+footer {
+    clear: left;
+    float: left;
+    width: 100%;
+    border-top: 3px solid #E8DAC3;
+    margin-top: 10px;
+}
+html {
+    background-color: #eb82cb;
+    ;
+}
+#container {
+    text-align: center;
+}
+#container a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #E8DAC3;
+    padding: 2px;
+}
+#container a:hover {
+    background-color: #C3E8CD;
+}
+#landing_page_section {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.hobby {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
+}
+header h1 {
+    font-family: 'Dancing Script', 'Open Sans', sans-serif, 'Playfair Display', serif;
+}
+#landing_page_section h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+#landing_page_section p {
+    font-family: 'Open Sans', sans-serif;
+}
+.individual_hobby_section h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.individual_hobby_section p {
+    font-family: 'Open Sans', sans-serif;
+}
+.accomplishments_and_goals {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.25em;
+}
+.accomplishments h3 {
+    font-family: 'Dancing Script';
+    font-size: 1.4em;
+}
+.accomplishments p {
+    font-family: 'Open Sans', sans-serif;
+}
